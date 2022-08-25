@@ -1,4 +1,4 @@
-# Smartly. SQL. Codility task 2.
+# SQL. Codility task 2.
 
 ## Table of Contents 
 [PostgreSQL + Cloudbeaver](#PostgreSQL+Cloudbeaver)   
