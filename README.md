@@ -25,7 +25,7 @@ The connection will be ready to recieve request after ~30 sec after launching th
 - User: postgres
 - Password: postgres
 
-4. Launch the `solution.sql` script in scr folder of current repository to get the answer of that task.
+4. Launch the `solution.sql` script in `scr` folder of current repository to get the answer of that task.
 
 5. Stop the container in terminal when you finish
 ```
