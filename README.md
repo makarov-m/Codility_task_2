@@ -9,6 +9,8 @@
 **Description:** Run Docker container with postgre database and cloudbeaver app using Docker-compose.
 The table `participation` will be inside the database. 
 
+0. Instal Docker-Compose using link https://docs.docker.com/get-docker/ if you dont have it. 
+
 1. Clone repository 
 
 2. Launch commands in terminal
