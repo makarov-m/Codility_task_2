@@ -19,7 +19,7 @@ cd {path/folder_name}
 docker-compose up -d
 ```
 3. Connect to database using cloudbeaver client using address http://localhost:8080/ in your browser.
-The connection will be ready to recieve request after ~30 sec after launching the container.
+The connection will be ready to recieve requests ~30 sec after launching the container.
 
 - at the beginning set up admin credentials in cloudbeaver
 - Host: postgres
